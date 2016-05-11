@@ -1,0 +1,7 @@
+C:\Development\Projects\OSS\Simple.CQRS\Simple.CQRS.Tests\bin\Debug\Simple.CQRS.Tests.dll
+C:\Development\Projects\OSS\Simple.CQRS\Simple.CQRS.Tests\bin\Debug\Simple.CQRS.Tests.pdb
+C:\Development\Projects\OSS\Simple.CQRS\Simple.CQRS.Tests\bin\Debug\nunit.framework.dll
+C:\Development\Projects\OSS\Simple.CQRS\Simple.CQRS.Tests\bin\Debug\nunit.framework.xml
+C:\Development\Projects\OSS\Simple.CQRS\Simple.CQRS.Tests\obj\Debug\Simple.CQRS.Tests.csprojResolveAssemblyReference.cache
+C:\Development\Projects\OSS\Simple.CQRS\Simple.CQRS.Tests\obj\Debug\Simple.CQRS.Tests.dll
+C:\Development\Projects\OSS\Simple.CQRS\Simple.CQRS.Tests\obj\Debug\Simple.CQRS.Tests.pdb
